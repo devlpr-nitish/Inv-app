@@ -35,7 +35,7 @@ app.use(ejsLayout);
 //create an instance of ProductController
 const productController = new ProductController();
 
-//create an instance of UserController
+//create an instance of UserController  
 const userController = new UserController();
 
 app.get('/', lastVisit, auth, productController.getProducts);
