@@ -7,6 +7,7 @@
     <li>JS</li>
     <li>NODE JS</li>
     <li>EXPRESS</li>
+    <li>EJS</li>
     <li>SOME EXPRESS DEPENDENCIES</li>
   </ul>
 
