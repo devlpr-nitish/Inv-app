@@ -3,6 +3,6 @@ export const auth = (req, res, next) => {
         next();
     }
     else {
-        res.redirect('/login');
+        res.redirect('/register');
     }
 }
